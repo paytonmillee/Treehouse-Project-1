@@ -7,7 +7,7 @@
     source: "Darth Vader",
 },
 {
-    quote: "I'm not superstitious, im just a little stitious",
+    quote: "I'm not superstitious, I'm just a little stitious",
     source: "Michael Scott",
 
 },
@@ -17,7 +17,7 @@
 }];
 
 function getRandomQuote(quotes {
-    var quoteIndex = Math.floor(MAth.random( * quotes.length));
+    var quoteIndex = Math.floor(Math.random( * quotes.length));
 
     for (var i = 0; i < quotes.length; i++) {
 

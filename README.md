@@ -1,0 +1,1 @@
+The project allows the users to click a button on the screen to provide (call the function) them with a quote in random order each and every time the button is pressed.
